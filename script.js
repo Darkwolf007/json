@@ -47,10 +47,10 @@ Highcharts.chart('container', {
     height: '100%'
   },
   title: {
-    text: 'The Indo-European Language Tree'
+    text: 'Relationship network'
   },
   subtitle: {
-    text: 'A Force-Directed Network Graph in Highcharts'
+    text: 'Schema Design'
   },
   plotOptions: {
     networkgraph: {
